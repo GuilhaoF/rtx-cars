@@ -119,7 +119,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="">
- <img style="border-radius: 50%;" src="https://portifolio-luis-guilhaof.vercel.app/" width="100px;" alt="imagem-dev"/>
+ <img style="border-radius: 50%;" src="https://portifolio-luis-guilhaof.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FHero.79acaa01.jpg&w=750&q=80" width="100px;" alt="imagem-dev"/>
  <br />
  <sub><b>Luis Felipe Guilhao 🔥</b></sub></a> <a href="https://portifolio-luis-guilhaof.vercel.app/" title="Dev Frontend/Mobile">🚀</a>
  <br />
