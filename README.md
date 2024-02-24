@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Web Carros 🚘 Concluído 🚀 🚧
+	 Web Carros 🚘 Concluído 🚀 
 </h4>
 
 <p align="center">
@@ -46,11 +46,11 @@
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="web" title="#NextLevelWeek" src="" width="400px">
+  <img alt="web" title="#NextLevelWeek" src="https://github.com/GuilhaoF/rtx-cars/assets/67026555/37e948a7-d253-46f1-9732-f8fa7e4b51f4" width="400px">
 
-  <img alt="web-dashboard" title="#NextLevelWeek" src="" width="400px">
+  <img alt="web-dashboard" title="#NextLevelWeek" src="https://github.com/GuilhaoF/rtx-cars/assets/67026555/c03167dd-9aba-49c2-831a-3fc83b7f2f8e" width="400px">
 
-  <img alt="web-cadastro-carro" title="#NextLevelWeek" src="" width="400px">
+  <img alt="web-cadastro-carro" title="#NextLevelWeek" src="https://github.com/GuilhaoF/rtx-cars/assets/67026555/abc3e63b-7bfb-4da0-8fcf-62bf0bc1205c" width="400px">
 </p>
 
 ---
@@ -121,7 +121,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="">
  <img style="border-radius: 50%;" src="https://portifolio-luis-guilhaof.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FHero.79acaa01.jpg&w=750&q=80" width="100px;" alt="imagem-dev"/>
  <br />
- <sub><b>Luis Felipe Guilhao 🔥</b></sub></a> <a href="https://portifolio-luis-guilhaof.vercel.app/" title="Dev Frontend/Mobile">🚀</a>
+<b>Luis Felipe Guilhao 🔥</b></a> <a href="https://portifolio-luis-guilhaof.vercel.app/" title="Dev Frontend/Mobile">🚀</a>
  <br />
 
 ---
